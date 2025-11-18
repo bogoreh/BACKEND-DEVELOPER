@@ -1,9 +1,3 @@
-Here is your README rewritten in **the exact same style**, but using **your 15 projects**, numbered, categorized, and linked exactly like the sample.
-
-You can paste this directly into **README.md**.
-
----
-
 ## 📂 15 Projects List
 
 ### 🧭 Portals & Information Systems
